@@ -1,0 +1,4 @@
+PyQt6==6.9.1
+pymupdf @ git+https://github.com/libresign-everifier/PyMuPDF@main
+pyqt6_sip==13.10.2
+Requests==2.32.4
